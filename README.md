@@ -6,4 +6,4 @@ This project consist of hands-on walk through of a three-tier web architecture i
 2. An AWS account.
 3. IDE or text editor of your choice in order to make some changes in the files during the project.
 ## Architecture Overview
-![3 Tier Architecture](https://github.com/user-attachments/assets/cb3ed207-59fd-435a-abee-3d0145bfde96)
+![3 Tier Architecture](https://github.com/user-attachments/assets/06de2eb2-8bc1-43dd-9968-0076889c6307)
